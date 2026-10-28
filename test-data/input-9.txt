@@ -1,0 +1,4 @@
+# T9: ALL succeeds if only the primary store fires successfully
+# T9: ALL módban az elsődleges tár sikeres lövése is elegendő
+GT4500,1,0,1,1
+TORPEDO,ALL

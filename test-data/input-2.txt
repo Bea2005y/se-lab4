@@ -1,0 +1,5 @@
+# T2: SINGLE alternates between the stores
+# T2: SINGLE módban a tárak felváltva tüzelnek
+GT4500,2,0,2,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE

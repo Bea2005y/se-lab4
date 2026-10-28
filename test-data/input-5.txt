@@ -1,0 +1,4 @@
+# T5: SINGLE does not try the other store after a failure
+# T5: SINGLE módban meghibásodás után nem próbálkozik a másik tárral
+GT4500,1,1,1,0
+TORPEDO,SINGLE

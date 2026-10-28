@@ -1,0 +1,4 @@
+# T10: ALL fails when both stores fail
+# T10: ALL módban sikertelen a tüzelés, ha mindkét tár meghibásodik
+GT4500,1,1,1,1
+TORPEDO,ALL

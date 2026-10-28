@@ -1,0 +1,5 @@
+# T7: ALL fires both stores and uses up their last torpedoes
+# T7: ALL módban mindkét tár kilövi az utolsó torpedóját
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL
