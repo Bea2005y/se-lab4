@@ -1,0 +1,5 @@
+# T11: After firing the last primary torpedo, both stores are empty
+# T11: Az elsődleges tár utolsó torpedójának kilövése után mindkét tár üres
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
