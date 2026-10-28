@@ -1,0 +1,5 @@
+# T6: Neither firing mode succeeds when both stores are empty
+# T6: Üres tárakkal egyik tüzelési mód sem sikeres
+GT4500,0,0,0,0
+TORPEDO,SINGLE
+TORPEDO,ALL

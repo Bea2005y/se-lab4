@@ -1,0 +1,4 @@
+# T3: Use the secondary store when the primary is empty
+# T3: Üres elsődleges tár helyett a másodlagos tüzel
+GT4500,0,0,1,0
+TORPEDO,SINGLE
